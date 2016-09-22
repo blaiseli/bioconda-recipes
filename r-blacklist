@@ -1,7 +1,7 @@
 recipes/bcbio-rnaseq
 recipes/bioconductor-affy
 recipes/bioconductor-affyio
-#recipes/bioconductor-annotate
+recipes/bioconductor-annotate
 recipes/bioconductor-annotationdbi
 recipes/bioconductor-annotationforge
 recipes/bioconductor-basic4cseq
@@ -138,6 +138,7 @@ recipes/bioconductor-topgo
 recipes/bioconductor-txdb.dmelanogaster.ucsc.dm3.ensgene
 recipes/bioconductor-txdb.hsapiens.ucsc.hg19.knowngene
 recipes/bioconductor-txdb.mmusculus.ucsc.mm10.ensgene
+recipes/bioconductor-tximport
 recipes/bioconductor-variantannotation
 recipes/bioconductor-vsn
 recipes/bioconductor-xcms/1.44.0
@@ -339,3 +340,6 @@ recipes/r-coloc
 recipes/r-bma
 recipes/r-phonr
 recipes/cap-mirseq
+recipes/r-inline
+recipes/r-qqman
+recipes/r-leaps
