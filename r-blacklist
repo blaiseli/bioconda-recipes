@@ -5,6 +5,7 @@ recipes/bioconductor-affyio
 recipes/bioconductor-annotationdbi
 recipes/bioconductor-annotationforge
 recipes/bioconductor-basic4cseq
+recipes/bioconductor-bayespeak
 recipes/bioconductor-biobase
 recipes/bioconductor-biocgenerics
 recipes/bioconductor-biocinstaller
@@ -168,6 +169,7 @@ recipes/r-bio3d
 recipes/r-biom
 recipes/r-bit
 recipes/r-bit64
+recipes/r-rblast
 recipes/r-blockmodeling
 recipes/r-calibrate
 recipes/r-catools
@@ -234,6 +236,8 @@ recipes/r-knitr
 recipes/r-knitrbootstrap
 recipes/r-ks
 recipes/r-lambda.r
+recipes/r-rlist
+recipes/r-bigmemory.sri
 recipes/r-listenv
 recipes/r-locfit
 recipes/r-longitudinal
